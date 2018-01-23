@@ -1,0 +1,16 @@
+[
+{
+  "modid": "timecontrol",
+  "name": "TimeControl",
+  "description": "A few client-side modifications based around time.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["jD91mZM2"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

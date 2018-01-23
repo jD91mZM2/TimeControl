@@ -1,0 +1,4 @@
+key.timecontrol.category=TimeControl Keybindings
+key.undo.desc=Undo position
+key.faster.desc=Increase tps
+key.slower.desc=Decrease tps
