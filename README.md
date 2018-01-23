@@ -5,6 +5,8 @@ It's currently early on in development and it doesn't have a lot of features.
 
 Note: This mod is inspired by [Braid](http://braid-game.com/).
 
+**Latest tested Minecraft version: `1.12.2`**
+
 ## Features
 
  - **Speed control**: Simply press the Up/Down arrows to change the game tick speed.
