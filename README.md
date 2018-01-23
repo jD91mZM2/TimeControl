@@ -17,9 +17,22 @@ Note: This mod is inspired by [Braid](http://braid-game.com/).
 
 It's not useful yet, but it's a fun tool. Although, I'm considering implementing the same features I had in my good old [Macro Mod](http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/2664445-macro-mod-repeat-stuff-automatically) (Warning: I was very young when I made that. Prepare to cringe.)
 
-## How do I compile from source?
+## Download?
+
+### Get the binary
+
+Most people will want to get the `.jar` file. They can do so [here](https://github.com/jD91mZM2/TimeControl/releases).
+
+### Compile from source
+
+If you want to compile this mod for yourself, here's how:
 
  - Download and extract the forge MDK.
  - Execute `./gradlew setupDecompWorkspace`.
  - Merge this directory with it, overwriting any files.
  - `./gradlew build` or `./gradlew runClient`
+
+## How it looks
+
+![GIF demonstrating the movement undo ability](screenshots/undo.gif)
+![GIF demonstrating the TPS modification ability](screenshots/speed.gif)
